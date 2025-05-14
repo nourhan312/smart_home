@@ -1,6 +1,14 @@
-# Smart Room IoT Controller
+# Smart Home IoT Controller
 
 A Flutter application that controls and monitors IoT devices in a smart room using Firebase Realtime Database.
+
+## Project OverView
+
+
+
+https://github.com/user-attachments/assets/0a63fc99-4bcd-4ffa-bd8b-03987acf6146
+
+
 
 ## Features
 
@@ -8,15 +16,11 @@ A Flutter application that controls and monitors IoT devices in a smart room usi
 - Control LED lights remotely
 - IR sensor detection with visual warnings
 - Ultrasonic Distance Monitoring
-   - Real-time distance measurement (2cm - 400cm)
+   - Real-time distance measurement 
    - Object detection warning system
    - Visual feedback when objects are too close
 - Firebase Realtime Database integration
 - Responsive UI with custom components
-
-## Video
-
-
 
 
 ## Firebase Database Structure
